@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace Factory_Pattern_Exercise
 {
@@ -8,7 +9,8 @@ namespace Factory_Pattern_Exercise
     {
         public ThreeWheeler()
         {
-
+            Console.WriteLine("Building a new ThreeWheeler!");
+            Thread.Sleep(5000);
         }
 
         public void Drive()

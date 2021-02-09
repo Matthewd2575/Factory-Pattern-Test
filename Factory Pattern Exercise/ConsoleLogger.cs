@@ -10,9 +10,9 @@ namespace Factory_Pattern_Exercise
         public static void VehicleStartUpDialogue()
         {
             Console.WriteLine("Put Key in ignition");
-            Thread.Sleep(1000);
+            Thread.Sleep(6000);
             Console.WriteLine("Turn the Key");
-            Thread.Sleep(1000);
+            Thread.Sleep(7000);
 
         }
 
