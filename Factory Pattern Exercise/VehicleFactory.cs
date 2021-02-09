@@ -18,6 +18,7 @@ namespace Factory_Pattern_Exercise
                     return new Car();
                 default:
                     return new Car();
+                    
             }
         }
     }
