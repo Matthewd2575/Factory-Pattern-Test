@@ -1,0 +1,13 @@
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.exe
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.deps.json
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.runtimeconfig.json
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.runtimeconfig.dev.json
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.dll
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\bin\Debug\netcoreapp3.1\Factory Pattern Exercise.pdb
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.csprojAssemblyReference.cache
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.AssemblyInfoInputs.cache
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.AssemblyInfo.cs
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.dll
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.pdb
+C:\Users\Test\repos\Factory Pattern Exercise\Factory Pattern Exercise\obj\Debug\netcoreapp3.1\Factory Pattern Exercise.genruntimeconfig.cache
